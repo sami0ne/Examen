@@ -1,0 +1,10 @@
+@font-face {
+    font-family: FuenteMario;
+    src: url("fonts/SuperMario256.ttf")
+}
+
+a{
+    font-family: FuenteMario;
+}
+    
+
